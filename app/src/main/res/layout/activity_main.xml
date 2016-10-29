@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_main"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btn_jump_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump1"/>
+
+    <Button
+        android:id="@+id/btn_jump_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump2"/>
+
+    <Button
+        android:id="@+id/btn_jump_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump3"/>
+
+    <Button
+        android:id="@+id/btn_jump_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump4"/>
+
+    <Button
+        android:id="@+id/btn_jump_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump5"/>
+
+    <Button
+        android:id="@+id/btn_jump_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump6"/>
+
+    <Button
+        android:id="@+id/btn_jump_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump7"/>
+
+    <Button
+        android:id="@+id/btn_jump_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump8"/>
+
+    <Button
+        android:id="@+id/btn_jump_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_jump9"/>
+</LinearLayout>

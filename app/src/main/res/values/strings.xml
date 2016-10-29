@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MulActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_main">这是第一个Activity</string>
+    <string name="str_other">这是第二个Activity</string>
+    <string name="str_other_no_parameter">这是第二个Activity(无参数)</string>
+    <string name="str_jump1">跳转方式1</string>
+    <string name="str_jump2">跳转方式2</string>
+    <string name="str_jump3">跳转方式3</string>
+    <string name="str_jump4">跳转方式4</string>
+    <string name="str_jump5">跳转方式5</string>
+    <string name="str_jump6">跳转方式6</string>
+    <string name="str_jump7">带参数跳转</string>
+    <string name="str_jump8">批量带参数跳转</string>
+    <string name="str_jump9">带结果值的跳转</string>
+
+    <string name="str_close">关闭</string>
+</resources>
